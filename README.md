@@ -1,16 +1,13 @@
-# React + Vite
+# Password Strength Meterrrr
+    ##1.Instalacion
+bun install
+    ##2.Run tests
+bun test
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    ##3. Correr en Desarrollo
+bun run dev
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-Was able to configurar con Vite and React
+-Escribi tests primero
+-Commit de tests failing
+-Final commit of all the tests working
