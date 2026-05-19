@@ -1,2 +1,3 @@
 [test]
 preload = ["./src/tests/setup.js"]
+environment = "happy-dom"
