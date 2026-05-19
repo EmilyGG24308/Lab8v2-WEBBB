@@ -1,11 +1,11 @@
 # Password Strength Meterrrr
 1.Instalacion
-    bun install
+    ##bun install
 2.Run tests
-    bun test
+    ##bun test
 
 3. Correr en Desarrollo
-    bun run dev
+    ##bun run dev
 
 -Was able to configurar con Vite and React
 -Escribi tests primero
